@@ -4,6 +4,9 @@
 
 [https://yukiwyy0705.github.io/so-many-games/desktop/](https://yukiwyy0705.github.io/so-many-games/desktop/)
 
+**Forked the games from ** [potato47/so-many-games](https://github.com/potato47/so-many-games)
+
+
 ------
 
 |      游戏       |                    玩法                    |                 截图                 |   完成时间    |
