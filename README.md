@@ -8,7 +8,7 @@ Forked the games from [potato47/so-many-games](https://github.com/potato47/so-ma
 
 ------
 
-**How to did it**
+**How I did it**
 1. Signed up a GitHub account
 2. Read the guide how to create a repository
 3. Forked the games from potato47/so-many-games
