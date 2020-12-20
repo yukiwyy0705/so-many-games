@@ -4,10 +4,6 @@
 
 [https://yukiwyy0705.github.io/so-many-games/desktop/](https://yukiwyy0705.github.io/so-many-games/desktop/)
 
-**手机端扫描关注微信公众号[新手程序员]，菜单栏点击“游戏机"进入游戏**
-
-![新手程序员](./screenshots/公众号二维码.jpg)
-
 ------
 
 |      游戏       |                    玩法                    |                 截图                 |   完成时间    |
