@@ -1,6 +1,6 @@
 # so-many-games
 
-**电脑端试玩**
+**Desktop:**
 
 [https://yukiwyy0705.github.io/so-many-games/desktop/](https://yukiwyy0705.github.io/so-many-games/desktop/)
 
